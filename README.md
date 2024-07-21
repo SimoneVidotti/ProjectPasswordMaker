@@ -2,10 +2,8 @@
 
 ## Description
 
- This C++ project consists in generating a strong password with random characters using the ASCII table.
- Once the password is generated, you can copy and customize it.
-
-## Getting Started
+* This C++ project consists in generating a strong password with random characters using the ASCII table.
+* Once the password is generated, you can copy and customize it.
 
 ### Prerequisites
 
